@@ -41,14 +41,17 @@
 
 ### Dashboard
 
-![Dashboard] (image.png)
+![Dashboard] <img width="1354" height="609" alt="image" src="https://github.com/user-attachments/assets/bef9ef2e-adba-4093-af6a-f0fc675a0bb5" />
+
 ### Add Task
 
-![Add Task] (image-1.png)
+![Add Task] <img width="1352" height="609" alt="image" src="https://github.com/user-attachments/assets/ec87c649-e1c4-4ea8-a9be-9846eb08f00b" />
+
 
 ### Edit Task
 
-![Edit Task] (image-2.png)
+![Edit Task] <img width="1356" height="609" alt="image" src="https://github.com/user-attachments/assets/f461d722-5e4f-4088-9dbc-ab774e59d135" />
+
 
 ### Completed Task
 
