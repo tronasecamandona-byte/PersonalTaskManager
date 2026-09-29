@@ -57,5 +57,5 @@
 
 ![Completed Task] ![alt text](image-3.png)
 ### 1. Clone the repository
-
+ git clone https://github.com/tronasecamandona-byte/PersonalTaskManager.git
 ```bash
